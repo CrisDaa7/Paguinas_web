@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: white;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+h2{
+    font-size: xx-large;
+    padding: 2%;
+}
+h1{
+    font-size: xx-large;
+    padding: 5%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+    background:  rgb(231, 133, 21);
+  
+}
+
+#noBtn{
+    position: absolute;
+    background:   rgb(231, 133, 21);
+}
+
+
